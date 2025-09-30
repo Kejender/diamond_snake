@@ -1,0 +1,11 @@
+{
+  "name": "diamond_snake",
+  "version": "1.0.0",
+  "description": "For a coding challenge from Devin.py. An array should be filled with ascending numbers, from top left in a snake-like movement. If you look at the output and tilt your screen a bit to right, you'll see...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
