@@ -3,4 +3,5 @@ For a coding challenge from Devin.py. An array should be filled with ascending n
 
 Give a number for rows and columns in command line, for example:
 
- ´node index.js 5´
+ `node index.js 5`
+ 
